@@ -1,0 +1,13 @@
+[
+  {"name":"The Plaza at Edgemere",        "type":"SNF",  "city":"Dallas",    "rating":5,"medicare":true, "medicaid":true, "phone":"(214)388-0400","specialties":["Cardiac","Orthopedic","Wound Care","Memory Care"]},
+  {"name":"Walnut Place",                 "type":"SNF",  "city":"Dallas",    "rating":4,"medicare":true, "medicaid":true, "phone":"(214)696-2400","specialties":["Memory Care","General Rehab","Long-Term"]},
+  {"name":"Baylor Scott & White IRF",     "type":"IRF",  "city":"Dallas",    "rating":5,"medicare":true, "medicaid":false,"phone":"(214)820-3151","specialties":["Stroke","Brain Injury","Orthopedic","Cardiac"]},
+  {"name":"Select Specialty Hospital",    "type":"LTACH","city":"Dallas",    "rating":4,"medicare":true, "medicaid":true, "phone":"(214)345-0300","specialties":["Ventilator Weaning","Complex Medical"]},
+  {"name":"Encompass Health Rehab Plano", "type":"IRF",  "city":"Plano",     "rating":5,"medicare":true, "medicaid":false,"phone":"(972)612-9000","specialties":["Hip Fracture","Joint Replacement","Stroke","Cardiac"]},
+  {"name":"Carrollton Springs SNF",       "type":"SNF",  "city":"Carrollton","rating":4,"medicare":true, "medicaid":true, "phone":"(972)395-1400","specialties":["Cardiac Rehab","Orthopedic"]},
+  {"name":"LHC Home Health Dallas",       "type":"HHA",  "city":"Dallas",    "rating":5,"medicare":true, "medicaid":true, "phone":"(214)369-2699","specialties":["Wound Care","IV Therapy","PT/OT","Cardiac"]},
+  {"name":"Amedisys Home Health Dallas",  "type":"HHA",  "city":"Dallas",    "rating":4,"medicare":true, "medicaid":true, "phone":"(214)630-0900","specialties":["Cardiac","Post-Surgical","PT/OT"]},
+  {"name":"Kindred at Home Dallas",       "type":"HHA",  "city":"Dallas",    "rating":4,"medicare":true, "medicaid":false,"phone":"(214)956-3700","specialties":["COPD","CHF","Diabetes"]},
+  {"name":"Autumn Leaves North Dallas",   "type":"SNF",  "city":"Dallas",    "rating":4,"medicare":true, "medicaid":true, "phone":"(214)696-6000","specialties":["Memory Care","Alzheimer's"]},
+  {"name":"Signature Healthcare Rowlett", "type":"SNF",  "city":"Rowlett",   "rating":4,"medicare":true, "medicaid":true, "phone":"(972)475-5900","specialties":["Short-Term Rehab","Cardiac"]}
+]

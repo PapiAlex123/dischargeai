@@ -1,0 +1,22 @@
+Patient: Robert Johnson, 72-year-old male.
+Admitted for acute exacerbation of congestive heart failure (CHF) with reduced ejection fraction (EF 30%).
+
+Hospital Course: Presented with 3-day dyspnea, bilateral lower extremity edema (2+ pitting), and 6-lb weight gain. BNP 1,450 pg/mL. CXR: bilateral pleural effusions, pulmonary vascular congestion. Treated with IV furosemide 40mg BID — 4.8L net diuresis over 3 days. Transitioned to oral furosemide. Lisinopril increased from 5mg to 10mg. Carvedilol continued.
+
+Discharge Medications:
+- Furosemide (Lasix) 40mg PO daily
+- Lisinopril 10mg PO daily (DOSE INCREASED — was 5mg, watch for dizziness)
+- Carvedilol 12.5mg PO BID
+- Spironolactone 25mg PO daily
+- Atorvastatin 40mg PO nightly
+- Aspirin 81mg PO daily
+- Potassium Chloride 20mEq PO daily
+
+Discharge to: Skilled Nursing Facility (SNF) for cardiac monitoring, PT/OT, and medication optimization.
+
+Follow-Up: Cardiology in 1 week. PCP in 3 days. BMP in 5 days. Daily weights at SNF.
+
+Warning Signs — Return to ED if: weight gain >2 lbs overnight or >5 lbs/week, worsening shortness of breath, chest pain, O2 sat <92%, new confusion.
+
+Diet: Low-sodium <2g/day. Fluid restriction 1.5L/day. Activity: light ambulation only.
+Allergies: Penicillin (rash).
